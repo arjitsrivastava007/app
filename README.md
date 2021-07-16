@@ -12,7 +12,8 @@
 - `brew services start redis`
 
 ## Setup Virtual Environment and Installing Requirements
-- Make sure the python version is 3.6
+- Make sure the python version is > 3.6
+- `https://www.python.org/downloads/`
 - `sh setup.sh`
 
 ## Start the server
